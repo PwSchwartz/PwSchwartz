@@ -1,5 +1,5 @@
 -Olá, eu sou @PwSchwartz.
--Estou interessado em aprender novas tecnologias na parte de programação.
+-Estou interessado em aprender novas tecnologias.
 -Atualmente estou cursando Sistemas de Informação na UNIFEBE.
 -Procuro colaborar com o desenvolvimento de trabalhos e também com o que é proposto em sala
 -Pode entrar em contato comigo atravez do Linkedin 
